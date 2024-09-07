@@ -1,0 +1,13 @@
+html{
+  font-size: 20px;
+}
+body {
+  font-family:"Arial","Meiryo",sans-serif ;
+}
+h1.important {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  font-style: normal;
+}
+
